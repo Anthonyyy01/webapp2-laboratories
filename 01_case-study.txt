@@ -1,0 +1,5 @@
+Question:
+Our IT company embarked on an ambitious project in January 2024 aimed at delivering a cutting-edge software solution to our users and clients. The project was meticulously planned with a target launch date of June 1. However, as the deadline approaches, it becomes apparent that several tasks are still in progress, and there are unresolved bugs that need attention. The testing process, crucial for ensuring product quality, has not yet begun. As a software engineer involved in the project, what aspects could have been handled better to prevent the delays and issues experienced, such as incomplete tasks, unresolved bugs, and a delayed testing process?
+
+Answer:
+As a software engineer that is involved in the project we should be able to have a collaboration to our team because it is one of the important aspect. Ensure the project has sufficient resources, including personnel, tools, and infrastructure. Avoid overloading team members to prevent burnout and maintain productivity. Especially they are Invest in training and development to ensure the team has the necessary skills to tackle the project’s challenges.
