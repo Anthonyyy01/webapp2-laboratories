@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding-right: 30;
+    box-sizing: border-box;
+    
+    
+}
+
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(241, 241, 227);
+    
+}
+
+.signup {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 30px;
+}
+
+input[ type="text"], input[type="password"], button {
+    display: block;
+    margin-bottom: 10px;
+    background-color: #1b9199;
+  
+}
+
+input[ type="text"], input[type="password"], button :hover {
+    color: black;
+    cursor: pointer;
+    background-color: whitesmoke;
+  
+}
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(12, 99, 105);
+}
+
+.posts {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 40px;
+    border: 1px solid rgba(50, 129, 167, 0.479);
+    border-radius: 3px;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    margin-bottom: 10px;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: beige;
+    cursor: pointer;
+}
+li:hover {
+    background-color: rgb(12, 177, 228);
+}
+
+.post {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+   
+}
+
+ul {
+    max-width: 800px;
+    margin: 40px;
+   
+}
+
+li {
+    text-align: center;
+
+}
+h3 title {
+    font-size: 25px;
+}
+
+p body {
+
+    font-size: 30px;
+}
